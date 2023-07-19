@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ym-Portfolio/static/css/main.7ec9e4b2.css",
+    "main.js": "/Ym-Portfolio/static/js/main.2109fa89.js",
+    "index.html": "/Ym-Portfolio/index.html",
+    "main.7ec9e4b2.css.map": "/Ym-Portfolio/static/css/main.7ec9e4b2.css.map",
+    "main.2109fa89.js.map": "/Ym-Portfolio/static/js/main.2109fa89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec9e4b2.css",
+    "static/js/main.2109fa89.js"
+  ]
+}
