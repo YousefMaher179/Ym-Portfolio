@@ -920,11 +920,10 @@ ul {
     z-index: 99999999999999999999999;
     margin-left: 0;
   }
-  .main-content {
-  }
   .nav-toggle {
     position: absolute;
     right: 2.4rem;
+    z-index: 9999999999999999999999999999999999;
   }
   .aside .logo a {
     font-size: 5.4rem;
