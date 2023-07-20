@@ -70,7 +70,7 @@ ul {
   cursor: pointer;
   position: fixed;
   top: 8rem;
-  z-index: 999999999999999999999999;
+  z-index: 9999;
 }
 
 .container {
@@ -917,13 +917,12 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 99999999999999999999999;
+    z-index: 9999;
     margin-left: 0;
   }
   .nav-toggle {
     position: absolute;
     right: 2.4rem;
-    z-index: 9999999999999999999999999999999999;
   }
   .aside .logo a {
     font-size: 5.4rem;
