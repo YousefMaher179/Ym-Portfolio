@@ -28,7 +28,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/jobify.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/jobify.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a
                     href="https://jobify-application.onrender.com/"
@@ -63,7 +66,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/cars.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/cars.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a href="https://cars-strore.web.app/" target="_blank">
                     <FontAwesomeIcon
@@ -93,7 +99,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/notes.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/notes.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a
                     href="https://notes-application-n7uy.onrender.com/"
@@ -128,7 +137,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/appie.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/appie.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a
                     href="https://yousefmaher179.github.io/Appie/"
@@ -161,7 +173,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/ominoo.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/ominoo.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a
                     href="https://omnifood-yousef179.netlify.app/"
@@ -194,7 +209,10 @@ const Portfolio = () => {
           <div className="portfolio-item padding">
             <div className="portfolio-item-inner shadow">
               <div className="portfolio-img">
-                <img src="/images/projects/kanban.png" alt="" />
+                <img
+                  src={require("../assests/images/projects/kanban.png")}
+                  alt=""
+                />
                 <div className="text-container">
                   <a
                     href="https://yousefmaher179.github.io/Task-of-level-2/"

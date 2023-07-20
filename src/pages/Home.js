@@ -51,7 +51,7 @@ const Home = () => {
             </NavLink>
           </div>
           <div className="home-img padding">
-            <img src="images/hero.gif" alt="" />
+            <img src={require("../assests/images/hero.gif")} alt="" />
           </div>
         </div>
       </motion.div>
