@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/Ym-Portfolio/static/css/main.7ec9e4b2.css",
-    "main.js": "/Ym-Portfolio/static/js/main.2109fa89.js",
-    "index.html": "/Ym-Portfolio/index.html",
-    "main.7ec9e4b2.css.map": "/Ym-Portfolio/static/css/main.7ec9e4b2.css.map",
-    "main.2109fa89.js.map": "/Ym-Portfolio/static/js/main.2109fa89.js.map"
+    "main.css": "/YousefMaher179/Ym-Portfolio/static/css/main.cb36571c.css",
+    "main.js": "/YousefMaher179/Ym-Portfolio/static/js/main.9003a2f6.js",
+    "static/media/cars.png": "/YousefMaher179/Ym-Portfolio/static/media/cars.adb92ceeda308d617e48.png",
+    "static/media/ominoo.png": "/YousefMaher179/Ym-Portfolio/static/media/ominoo.3c5252bbe44cd74270b0.png",
+    "static/media/appie.png": "/YousefMaher179/Ym-Portfolio/static/media/appie.133e2711eb2ba9c5f11e.png",
+    "static/media/hero.gif": "/YousefMaher179/Ym-Portfolio/static/media/hero.92112f3da3a0b70f7b00.gif",
+    "static/media/notes.png": "/YousefMaher179/Ym-Portfolio/static/media/notes.7799300ccd6f9fe7238d.png",
+    "static/media/jobify.png": "/YousefMaher179/Ym-Portfolio/static/media/jobify.160ab3c09bf1cf1cece7.png",
+    "static/media/kanban.png": "/YousefMaher179/Ym-Portfolio/static/media/kanban.58de35bb80b05da18d32.png",
+    "index.html": "/YousefMaher179/Ym-Portfolio/index.html",
+    "main.cb36571c.css.map": "/YousefMaher179/Ym-Portfolio/static/css/main.cb36571c.css.map",
+    "main.9003a2f6.js.map": "/YousefMaher179/Ym-Portfolio/static/js/main.9003a2f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ec9e4b2.css",
-    "static/js/main.2109fa89.js"
+    "static/css/main.cb36571c.css",
+    "static/js/main.9003a2f6.js"
   ]
 }
