@@ -53,7 +53,7 @@ const Contact = () => {
               />
               <h4>Linkedin</h4>
               <a
-                href="https://www.linkedin.com/in/yousef-maher-el-khayat-79281922a/"
+                href="https://www.linkedin.com/in/yousef-maher-elkhayat-79281922a/"
                 target="_blank"
                 className="btn"
               >
