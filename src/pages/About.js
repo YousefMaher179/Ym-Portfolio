@@ -71,7 +71,7 @@ const About = () => {
                   </div>
                   <div className="info-item padding">
                     <p>
-                      Address: <span>Egypt, Menoufia, Menouf</span>
+                      Address: <span>Egypt, Cairo</span>
                     </p>
                   </div>
                   <div className="info-item padding">

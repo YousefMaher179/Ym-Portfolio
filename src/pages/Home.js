@@ -44,7 +44,7 @@ const Home = () => {
             </h3>
             <p>
               I'm MERN Stack Web Developer with extensive experience for over 2
-              year. My expertise is to build and maintain websites...
+              years. My expertise is to build and maintain websites...
             </p>
             <NavLink to="/contact" className="btn hire-me">
               Hire Me
